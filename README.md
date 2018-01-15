@@ -18,8 +18,8 @@ random.dog.js is a  [node.js](https://nodejs.org) module that allows you to inte
 
 ## Example usage
 ```js
-const randomCat = require('random.dog.js');
-const randomCatApi = randomCat.api();
+const randomDog = require('random.dog.js');
+const randomDogApi = randomDog.api();
 
-randomCatApi.getDog().then((dog) => console.log(cat.url))
+randomDogApi.getDog().then((dog) => console.log(dog.url))
 ```
