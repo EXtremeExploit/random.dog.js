@@ -15,7 +15,7 @@ class Api {
                 });
         });
     }
-    getCat() {
+    getDog() {
         return this.apiCall('/woof.json');
     }
 }
