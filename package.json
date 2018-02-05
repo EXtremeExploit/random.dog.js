@@ -1,6 +1,6 @@
 {
   "name": "random.dog.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module to interct with the random.dog API",
   "main": "index.js",
   "dependencies": {
